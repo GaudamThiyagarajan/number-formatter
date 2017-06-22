@@ -1,0 +1,30 @@
+{
+  "name": "@gaudam.thiyagarajan/number-formatter",
+  "version": "0.0.1",
+  "description": "Number Formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaudamThiyagarajan/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "“Gaudam <“gaudam.thiyagarajan@gmail.com”>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/GaudamThiyagarajan/number-formatter/issues"
+  },
+  "homepage": "https://github.com/GaudamThiyagarajan/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
